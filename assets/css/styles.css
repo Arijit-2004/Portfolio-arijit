@@ -624,3 +624,7 @@ img.man-icons {
     right: 10%;
   }
 }
+
+html {
+  scroll-behavior: smooth;
+}
